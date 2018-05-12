@@ -1,0 +1,33 @@
+_repo: The-Cariboo-TrailA-Chronicle-of-the-Gold-fields-of-British-Columbia_29885
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laut, Agnes C.
+    aliases:
+    - Laut, Agnes C. (Agnes Christina)
+    - Laut, Agnes Christina
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '7761'
+    url: http://www.gutenberg.org/2009/agents/7761
+description: ''
+gutenberg_issued: '2009-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29885'
+  lccn: '16020575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'British Columbia -- History'
+- !lcsh 'Gold mines and mining -- British Columbia'
+title: 'The Cariboo Trail
+
+  A Chronicle of the Gold-fields of British Columbia'
+url: http://www.gutenberg.org/ebooks/29885
